@@ -1,0 +1,10 @@
+C:\Users\PC01\source\repos\OyunCS\XOXoyunu\bin\Debug\XOXoyunu.exe.config
+C:\Users\PC01\source\repos\OyunCS\XOXoyunu\bin\Debug\XOXoyunu.exe
+C:\Users\PC01\source\repos\OyunCS\XOXoyunu\bin\Debug\XOXoyunu.pdb
+C:\Users\PC01\source\repos\OyunCS\XOXoyunu\obj\Debug\XOXoyunu.csproj.AssemblyReference.cache
+C:\Users\PC01\source\repos\OyunCS\XOXoyunu\obj\Debug\XOXoyunu.FrmOyunAlani.resources
+C:\Users\PC01\source\repos\OyunCS\XOXoyunu\obj\Debug\XOXoyunu.Properties.Resources.resources
+C:\Users\PC01\source\repos\OyunCS\XOXoyunu\obj\Debug\XOXoyunu.csproj.GenerateResource.cache
+C:\Users\PC01\source\repos\OyunCS\XOXoyunu\obj\Debug\XOXoyunu.csproj.CoreCompileInputs.cache
+C:\Users\PC01\source\repos\OyunCS\XOXoyunu\obj\Debug\XOXoyunu.exe
+C:\Users\PC01\source\repos\OyunCS\XOXoyunu\obj\Debug\XOXoyunu.pdb
